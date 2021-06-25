@@ -1,0 +1,12 @@
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Release\Delirium.exe.config
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Release\Delirium.exe
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Release\Delirium.pdb
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Release\Delirium.xml
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.Form1.resources
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.Resources.resources
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.vbproj.GenerateResource.cache
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.exe
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.xml
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.pdb
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Release\MySql.Data.dll
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Release\Delirium.vbproj.CopyComplete

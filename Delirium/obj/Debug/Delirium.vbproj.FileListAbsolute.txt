@@ -1,0 +1,13 @@
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.Form1.resources
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.Resources.resources
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.vbproj.GenerateResource.cache
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Debug\Delirium.exe.config
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Debug\Delirium.exe
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Debug\Delirium.pdb
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Debug\Delirium.xml
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.exe
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.xml
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.pdb
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\bin\Debug\MySql.Data.dll
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.vbprojAssemblyReference.cache
+C:\Users\Berkay Kullukçu\source\repos\Delirium\Delirium\obj\Debug\Delirium.vbproj.CopyComplete
